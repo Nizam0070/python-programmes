@@ -1,4 +1,3 @@
-
 #addition
 a = 10 
 b = 10
@@ -28,3 +27,12 @@ print(type(age))
 print(type(price))
 print(type(old))
 print(type(a))
+
+
+name = "nizam"
+age = 21
+height = 5.5
+print(name)
+print(age)
+print(height)
+print("my name is ",name,"and ia am ",age,"old","and",height,"feet")
